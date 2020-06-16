@@ -29,9 +29,9 @@
                 }
             }
         });
-    }
+    };
     window.Yzz = Yzz;
-})(window)
+})(window);
 
 $(document).ready(function () {
 
